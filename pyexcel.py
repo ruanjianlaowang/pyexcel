@@ -1,6 +1,6 @@
 import pandas as pd
 
-#欢迎添加老王微信（ruanjianlaowang）与关注【软件老王】公众号，有问题随时沟通！
+#欢迎添加老王微信（ruanjianlaowang）与关注【软件老王】公众号，有问题随时沟通
 
 if __name__ == '__main__':
     inputfile = '软件老王-source.xlsx'
